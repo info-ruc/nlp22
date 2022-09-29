@@ -10,3 +10,6 @@
 
 #3 Parser [slide](https://info-ruc.github.io/nlp22/parser.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp22/parser.pl)
+
+#4 Language Model [slide](https://info-ruc.github.io/nlp22/lanmod.pdf) 
+
