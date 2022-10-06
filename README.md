@@ -13,3 +13,5 @@
 
 #4 Language Model [slide](https://info-ruc.github.io/nlp22/lanmod.pdf) 
 
+#5 Word Embedding [slide](https://info-ruc.github.io/nlp22/embedding.pdf) 
+
