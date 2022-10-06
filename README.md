@@ -14,4 +14,5 @@
 #4 Language Model [slide](https://info-ruc.github.io/nlp22/lanmod.pdf) 
 
 #5 Word Embedding [slide](https://info-ruc.github.io/nlp22/embedding.pdf) 
+| [Source URL](https://blogs.mathworks.com/loren/2017/09/21/math-with-words-word-embeddings-with-matlab-and-text-analytics-toolbox)
 
