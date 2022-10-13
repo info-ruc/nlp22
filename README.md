@@ -16,3 +16,5 @@
 #5 Word Embedding [slide](https://info-ruc.github.io/nlp22/embedding.pdf) 
 | [Source URL](https://blogs.mathworks.com/loren/2017/09/21/math-with-words-word-embeddings-with-matlab-and-text-analytics-toolbox)
 
+#6 Text Models [slide](https://info-ruc.github.io/nlp21/textmodel.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp21/textmodel.zip)
