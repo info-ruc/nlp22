@@ -18,3 +18,6 @@
 
 #6 Text Models [slide](https://info-ruc.github.io/nlp22/textmodel.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp22/textmodel.zip)
+
+#7 More on LDA [slide](https://info-ruc.github.io/nlp22/morelda.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp22/morelda.zip)
