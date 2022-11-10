@@ -27,3 +27,6 @@
 
 #9 RNN(LSTM) [slide](https://info-ruc.github.io/nlp22/dl-lstm.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp22/lstm.zip)
+
+#10 AutoEncoder [slide](https://info-ruc.github.io/nlp22/dl-ae.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp22/ae.zip)
