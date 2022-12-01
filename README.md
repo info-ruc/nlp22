@@ -30,3 +30,10 @@
 
 #10 AutoEncoder [slide](https://info-ruc.github.io/nlp22/dl-ae.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp22/ae.zip)
+
+#11 GAN-I [slide](https://info-ruc.github.io/nlp22/dl-gan.pdf) 
+
+#12 GAN-II [slide](https://info-ruc.github.io/nlp22/dl-gan2.pdf) 
+
+#13 Transformer [slide](https://info-ruc.github.io/nlp22/transformer.pdf) 
+| [Source Code](https://github.com/matlab-deep-learning/transformer-models)
